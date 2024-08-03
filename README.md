@@ -16,7 +16,6 @@ This project focuses on sentiment analysis of movie reviews using the IMDb datas
 | Positive | 25000| 
 | Negative | 25000| 
 
-Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?datasetId=134715&sortBy=dateRun&tab=profile
 
 ## Data Preprocessing
 
